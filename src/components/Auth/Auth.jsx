@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import Login from "./login";
-import Signup from "./Signup";
+import Signup from "./signup";
 import ForgotPassword from "./ForgotPassword";
 
 const AUTH_MODES = {

@@ -11,7 +11,7 @@ import {
 import "./index.css";
 
 import Home from "./components/Home/home";
-import Auth from "./components/Auth/Auth";
+import Auth from "./components/Auth/Auth.jsx";
 import VerifyOtp from "./components/Auth/VerifyOtp";
 
 import Layout from "./Layout";
